@@ -6,3 +6,5 @@
 | `Ctrl + Alt + e` / `Ctrl + Shift + Alt + arrDOWN` | Insert cursor below |
 | `Alt + arrUP` / `Alt + arrDOWN`                   | move line           |
 | `Alt + Shift + arrUP` / `Alt + Shift + arrDOWN`   | copy line           |
+| `Ctrl + Shift + E`                                | Explorer            |
+| `Ctrl + Shift + G`                                | Git panel           |
