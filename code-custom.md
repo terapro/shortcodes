@@ -19,10 +19,17 @@
 | Comand             | Description   |
 | ------------------ | ------------- |
 | `Ctrl + Shift + E` | Explorer      |
-| `Ctrl + Shift + G` | Git panel     |
 | `Ctrl + Shift + X` | Plugins panel |
 | ``Ctrl + ` ``      | Terminal      |
 | `Alt + Z`          | Word wrap     |
+
+### Git panel
+
+| Comand             | Description    |
+| ------------------ | -------------- |
+| `Ctrl + Shift + G` | Git panel      |
+| `Ctrl + Enter`     | Makes a commit |
+
 
 ## Custom
 
