@@ -1,10 +1,31 @@
 # Visual Code Shortcodes (custom by Terapro)
 
-| Comand                                            | Description         |
-| ------------------------------------------------- | ------------------- |
-| `Ctrl + Alt + w` / `Ctrl + Shift + Alt + arrUP`   | Insert cursor above |
-| `Ctrl + Alt + e` / `Ctrl + Shift + Alt + arrDOWN` | Insert cursor below |
-| `Alt + arrUP` / `Alt + arrDOWN`                   | move line           |
-| `Alt + Shift + arrUP` / `Alt + Shift + arrDOWN`   | copy line           |
-| `Ctrl + Shift + E`                                | Explorer            |
-| `Ctrl + Shift + G`                                | Git panel           |
+
+## By default
+
+### Cursor
+
+| Comand                                          | Description                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| `Ctrl + Shift + Alt + arrUP`                    | Insert cursor above                             |
+| `Ctrl + Shift + Alt + arrDOWN`                  | Insert cursor below                             |
+| `Alt + arrUP` / `Alt + arrDOWN`                 | Move line                                       |
+| `Alt + Shift + arrUP` / `Alt + Shift + arrDOWN` | Copy line                                       |
+| `Ctrl + Shift + l`                              | Redy to edit all instances of the selected text |
+
+
+### IDE
+
+| Comand             | Description   |
+| ------------------ | ------------- |
+| `Ctrl + Shift + E` | Explorer      |
+| `Ctrl + Shift + G` | Git panel     |
+| `Ctrl + Shift + X` | Plugins panel |
+| ``Ctrl + ` ``      | Terminal      |
+| `Alt + Z`          | Word wrap     |
+
+## Custom
+
+| Comand              | Description                                 | Plugin           |
+| ------------------- | ------------------------------------------- | ---------------- |
+| `Alt + Shift + W W` | Insert console.log of selected/nearest word | Wrap console.log |
